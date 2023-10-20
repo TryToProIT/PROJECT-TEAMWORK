@@ -1,0 +1,32 @@
+C:\Games\School-management-system\App\BMCSDL_Lab3\bin\Debug\BMCSDL_Lab3.exe.config
+C:\Games\School-management-system\App\BMCSDL_Lab3\bin\Debug\BMCSDL_Lab3.exe
+C:\Games\School-management-system\App\BMCSDL_Lab3\bin\Debug\BMCSDL_Lab3.pdb
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.AssemblyReference.cache
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Form_Login.resources
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Properties.Resources.resources
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_Main.resources
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_modifyStudent.resources
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_nhanvien.resources
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_scoreInput.resources
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_StudentList.resources
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.GenerateResource.cache
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.CoreCompileInputs.cache
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.exe
+C:\Games\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.pdb
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\bin\Debug\BMCSDL_Lab3.exe.config
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\bin\Debug\BMCSDL_Lab3.exe
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\bin\Debug\BMCSDL_Lab3.pdb
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.AssemblyReference.cache
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Form_Login.resources
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Properties.Resources.resources
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_Main.resources
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_modifyStudent.resources
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_nhanvien.resources
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_scoreInput.resources
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.Source.Form_StudentList.resources
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.GenerateResource.cache
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.csproj.CoreCompileInputs.cache
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.exe
+C:\Games\lap trinh destop\School-management-system\App\BMCSDL_Lab3\obj\Debug\BMCSDL_Lab3.pdb
